@@ -13,9 +13,9 @@
     <li>Question 03
     <br>
     <ul>
-    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2002/Code/q4_a.scala">Question 03 </a>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2002/Code/q3.scala">Question 03 </a>
     </li>
-    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2002/Code/q4_b.scala">Question 03 Advanced</a>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2002/Code/q3_advance.scala">Question 03 Advanced</a>
     </li>
     </ul>
     <li>Question 04
