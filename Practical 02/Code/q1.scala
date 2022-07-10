@@ -18,7 +18,7 @@ def q1():Unit=println(k+12*m);
 def q2():Unit=println(m/j);
 def q3():Unit=println(n%j);
 def q4():Unit=println(m/j*j);
-def q5():Unit=println(f/10*5+g);
+def q5():Unit=println(f+10*5+g);
 // def q6():Unit=println(++(i)*n);
 //++ Operator is not work in Scala and
 // ++ is valid method
