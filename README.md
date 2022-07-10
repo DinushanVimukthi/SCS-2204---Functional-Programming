@@ -1,6 +1,4 @@
 # ⭕⭕ SCS-2208-Functional-Programming ⭕⭕
-
-Lab Session Codes for Practicals are Here
 <br>
 <ul>
 <li><a style="color:white">Practical 01</a></li>
@@ -34,3 +32,4 @@ Lab Session Codes for Practicals are Here
 <li><a style="color:white">Practical 03</a></li>
 <li><a style="color:white">Practical 04</a></li>
 </ul>
+
