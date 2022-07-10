@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" height="40px" width="40">
 </img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJUV5o3_7huyElu2_YnQYtYsMt4_bIMAO6jYSDvNSfBZ5a7N2CNHktOoHryhCOAJlhHA&usqp=CAU" width="60px" height="40px">
-</img>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
 
 <hr>
 <center><h1>⭕⭕ SCS-2208-Functional-Programming ⭕⭕</h1></center>
