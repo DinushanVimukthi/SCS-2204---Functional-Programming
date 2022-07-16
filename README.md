@@ -36,7 +36,7 @@
     </li>
     </ol>
 </li>
-<li><a style="color:white">Practical 03</a></li>
+<li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2003/Tutorial3.scala">Practical 03</a></li>
 <li><a style="color:white">Practical 04</a></li>
 </ul>
 </li>

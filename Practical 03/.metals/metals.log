@@ -247,3 +247,4 @@ WARNING: Unmatched cancel notification for request id 21
 2022.07.16 23:13:18 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
 Jul 16, 2022 11:13:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.07.16 23:15:52 INFO  shutting down Metals
