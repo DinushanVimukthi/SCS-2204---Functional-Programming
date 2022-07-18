@@ -14,4 +14,7 @@ def TotalWholeSaleCost(Quantity:Int):Double=Quantity match {
     case Quantity if Quantity>50 => 3*50 + (Quantity-50)*0.75 +24.95*Quantity*0.6
     case _ => Quantity*3 +24.95*Quantity*0.6
 }
-def TotalRuniingTime(easy:Int=8,tempo:Int=7):Int=2*easy+3*tempo+2*easy
+
+def tempo(length:Double)=length*7
+def easy(length:Double)=length*8
+def TotalRuniingTime():Double=easy(2)+tempo(3)+easy(2)

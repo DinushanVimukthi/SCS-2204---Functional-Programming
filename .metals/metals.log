@@ -1185,3 +1185,57 @@ One of these files should be removed from the classpath.
 2022.07.12 10:44:38 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Q2_a.scala
 2022.07.12 10:44:42 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Q2_a.scala
 2022.07.12 14:46:38 INFO  shutting down Metals
+2022.07.17 23:25:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.17 23:25:37 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.07.17 23:25:37 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.68.0.
+2022.07.17 23:25:38 INFO  time: initialize in 0.65s
+2022.07.17 23:25:38 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.17 23:25:39 WARN  Build server is not auto-connectable.
+2022.07.17 23:25:39 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.17 23:25:41 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.17 23:25:44 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.17 23:25:46 INFO  time: code lens generation in 4.58s
+2022.07.17 23:25:52 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.17 23:25:55 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.17 23:26:19 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.17 23:27:17 INFO  shutting down Metals
+2022.07.18 22:32:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.18 22:32:40 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.07.18 22:32:40 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.68.0.
+2022.07.18 22:32:41 INFO  time: initialize in 0.91s
+2022.07.18 22:32:41 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.18 22:32:41 WARN  Build server is not auto-connectable.
+2022.07.18 22:32:41 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.18 22:32:44 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 22:32:47 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.18 22:32:49 INFO  time: code lens generation in 4.27s
+2022.07.18 23:17:06 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:08 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:09 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:10 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:17 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:19 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:23 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:26 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:28 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:36 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:39 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:44 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:17:46 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:26 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:28 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:30 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:33 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:46 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:47 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:28:48 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:05 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:08 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:11 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:14 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:16 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:19 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:21 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:22 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
+2022.07.18 23:29:27 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 03\Tutorial3.scala
