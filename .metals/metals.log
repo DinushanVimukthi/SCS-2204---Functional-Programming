@@ -5443,3 +5443,6 @@ Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, all
 2022.07.28 22:19:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
 2022.07.28 22:20:17 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\tempCodeRunnerFile.scala
 2022.07.28 22:20:21 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\tempCodeRunnerFile.scala
+Jul 28, 2022 10:32:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.28 23:27:48 INFO  shutting down Metals

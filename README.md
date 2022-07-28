@@ -2,7 +2,6 @@
 </img>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-
 <hr>
 <center><h1>⭕⭕ SCS-2208-Functional-Programming ⭕⭕</h1></center>
 <ul type="square">
@@ -37,9 +36,14 @@
     </ol>
 </li>
 <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2003/Tutorial3.scala">Practical 03</a></li>
-<li><a style="color:white">Practical 04</a></li>
-</ul>
+<li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/tree/main/Practical%2004/Code">Practical 04</a>
+<ol>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2004/Code/Q1.scala">Question 1</a><li>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2004/Code/Q2.scala">Question 2</a></li>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2004/Code/Q3.scala">Question 3</a></li>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2004/Code/Q4.scala">Question 4</a></li>
+    <li><a href="https://github.com/DinushanVimukthi/SCS-2204---Functional-Programming/blob/main/Practical%2004/Code/Q5.scala">Question 5</a></li>
+</ol>
 </li>
 <li>Assignments</li>
 </ul>
-
