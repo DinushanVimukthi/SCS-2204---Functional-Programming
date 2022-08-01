@@ -1,13 +1,13 @@
-class ShoppingCart(name:String,price:Double,quantity:Int){   
+case class ShoppingCart(name:String,price:Double,quantity:Int){   
     def Display():Unit=println(quantity +" "+name+" ar Rs."+price +" each")
     def GetName():String=name
 }
 @main
 def run()={
     var carts:Array[ShoppingCart]=new Array[ShoppingCart](3)
-    carts(0)=new ShoppingCart("vanilla ice cream",3.99,13)
-    carts(1)=new ShoppingCart("chocolate biscuits",4,6)
-    carts(2)=new ShoppingCart("cupcakes",7.77,7)
+    carts(0)=ShoppingCart("vanilla ice cream",3.99,13)
+    carts(1)=ShoppingCart("chocolate biscuits",4,6)
+    carts(2)=ShoppingCart("cupcakes",7.77,7)
     ViewAll(carts)
     Filter(carts)
 }

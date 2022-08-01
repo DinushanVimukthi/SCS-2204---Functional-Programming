@@ -6,7 +6,7 @@ def run()={
     println(PatternMatching(2))
 }
 
-def PatternMatching(x:Int)=x match{
+def PatternMatching(x:Int):String=x match{
     case 0 => "zero"
     case x if(x<0) => "negative"
     case x if(x%2==0)=> "even"

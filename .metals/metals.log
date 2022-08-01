@@ -5446,3 +5446,163 @@ Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, all
 Jul 28, 2022 10:32:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2022.07.28 23:27:48 INFO  shutting down Metals
+2022.07.29 18:41:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.29 18:41:58 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.07.29 18:41:58 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.68.0.
+2022.07.29 18:41:58 INFO  time: initialize in 0.73s
+2022.07.29 18:41:58 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.29 18:41:58 WARN  Build server is not auto-connectable.
+2022.07.29 18:41:58 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.29 18:42:01 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q1.scala
+Jul 29, 2022 6:42:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 29, 2022 6:42:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jul 29, 2022 6:42:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.07.29 18:42:03 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.29 18:42:03 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.07.29 18:42:06 INFO  time: code lens generation in 1.4s
+2022.07.29 18:42:06 INFO  time: code lens generation in 3.68s
+2022.07.29 18:42:06 INFO  time: code lens generation in 1.82s
+2022.07.29 18:42:08 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.07.29 18:42:21 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.07.29 18:42:25 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.07.29 18:42:31 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.07.29 18:50:35 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+Jul 29, 2022 6:50:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2022.07.29 18:50:46 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:50:54 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:02 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:04 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:09 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:14 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:17 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:18 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:26 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:39 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:48 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:50 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:51:55 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:52:20 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:52:25 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:52:28 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:52:56 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.29 18:53:23 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.07.31 22:26:55 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.31 22:26:56 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.07.31 22:26:56 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.68.0.
+2022.07.31 22:26:57 INFO  time: initialize in 0.57s
+2022.07.31 22:27:01 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.31 22:27:01 WARN  Build server is not auto-connectable.
+2022.07.31 22:27:01 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.31 22:27:03 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.07.31 22:27:04 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.31 22:27:06 INFO  time: code lens generation in 2.74s
+2022.07.31 22:27:24 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 22:28:57 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 22:30:17 INFO  shutting down Metals
+2022.07.31 23:23:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.31 23:23:19 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.07.31 23:23:19 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.07.31 23:23:19 INFO  time: initialize in 0.59s
+2022.07.31 23:23:19 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.31 23:23:19 WARN  Build server is not auto-connectable.
+2022.07.31 23:23:19 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.31 23:23:22 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:23:25 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.31 23:26:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:26:59 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:04 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:10 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:12 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:17 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:27 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:28 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:36 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:47 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:56 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:57 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:27:58 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:28:01 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:28:04 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:28:17 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.07.31 23:58:51 INFO  shutting down Metals
+2022.08.01 08:53:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 08:53:48 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.08.01 08:53:48 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 08:53:49 INFO  time: initialize in 0.93s
+2022.08.01 08:53:49 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 08:53:49 WARN  Build server is not auto-connectable.
+2022.08.01 08:53:49 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.01 08:53:52 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 08:53:55 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.01 08:53:57 INFO  time: code lens generation in 4.03s
+2022.08.01 08:55:14 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 08:55:15 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 08:56:19 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 08:56:21 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:02:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 09:02:36 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.08.01 09:02:36 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 09:07:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 09:07:30 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.08.01 09:07:30 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 09:07:31 INFO  time: initialize in 0.88s
+2022.08.01 09:07:35 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 09:07:35 WARN  Build server is not auto-connectable.
+2022.08.01 09:07:35 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.01 09:07:37 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:07:40 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.01 09:08:51 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q2.scala
+2022.08.01 09:08:57 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:09:14 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:09:18 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:09:20 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:09:22 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:10:09 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:10:10 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:12:59 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:12:59 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:05 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:06 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:08 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:11 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:14 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:15 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:16 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:18 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:21 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:23 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:26 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:34 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:37 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:13:46 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:14:05 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:14:36 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q4.scala
+2022.08.01 09:14:38 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.08.01 09:15:29 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.08.01 09:15:34 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.08.01 09:15:40 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q3.scala
+2022.08.01 09:18:56 INFO  shutting down Metals
+2022.08.01 09:21:11 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 09:21:13 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.08.01 09:21:13 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 09:21:14 INFO  time: initialize in 0.74s
+2022.08.01 09:21:14 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 09:21:14 WARN  Build server is not auto-connectable.
+2022.08.01 09:21:14 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.01 09:23:02 INFO  shutting down Metals
+2022.08.01 09:28:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\lsp.trace.json or C:\Users\stdin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 09:28:06 INFO  logging to file F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\.metals\metals.log
+2022.08.01 09:28:06 INFO  Started: Metals version 0.11.7 in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 09:28:07 INFO  time: initialize in 1.2s
+2022.08.01 09:28:07 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 09:28:07 WARN  Build server is not auto-connectable.
+2022.08.01 09:28:07 WARN  no build tool detected in workspace 'F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.01 09:28:10 WARN  no build target for: F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala
+2022.08.01 09:28:12 INFO  no build target found for F:\UCSC Computer Science\2nd Year\First Semester\SCS 2206 - Functional Programming\Practicals\SCS-2208---Functional-Programming\Practical 04\Code\Q5.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.01 09:28:14 INFO  time: code lens generation in 3.81s
