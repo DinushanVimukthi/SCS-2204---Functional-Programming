@@ -7,8 +7,7 @@ def run()={
 }
 
 def PatternMatching(x:Int):String=x match{
-    case 0 => "zero"
-    case x if(x<0) => "negative"
-    case x if(x%2==0)=> "even"
-    case _ => "odd"
+    case x if(x<=0) => "zero/negative is given"
+    case x if(x%2==0)=> "even is given"
+    case _ => "odd is given"
 }
