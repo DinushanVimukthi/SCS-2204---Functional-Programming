@@ -11,5 +11,5 @@ def IsEven(n:Int):Boolean= n match{
 def SumofEven(n:Int):Int=n match {
     case 0 => 0
     case n if IsEven(n) => n + SumofEven(n-1)
-    case _ => 0 + SumofEven(n-1)
+    case _ => SumofEven(n-1)
 }
